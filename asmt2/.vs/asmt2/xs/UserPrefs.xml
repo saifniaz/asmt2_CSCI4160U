@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B9AA5C63-6572-BF7D-A47B-D415998C2A3D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/TerrainGene.cs">
+    <Files>
+      <File FileName="Assets/script/TerrainGene.cs" Line="7" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
