@@ -2,9 +2,9 @@
 
 public class TerrainGene : MonoBehaviour
 {
-    public int width = 256;
-    public int height = 256;
-    public int depth = 0;
+    public int width = 500;
+    public int height = 500;
+    public int depth = 50;
 
     public float scale = 10f;
 
@@ -16,7 +16,7 @@ public class TerrainGene : MonoBehaviour
     }
 
     TerrainData generateTerrain(TerrainData terrainData) {
-        terrainData.heightmapResolution = width + 1;
+        terrainData.heightmapResolution = width;
         terrainData.size = new Vector3(width, depth, height);
         terrainData.SetHeights(0, 0, generateHeight());
         return terrainData;

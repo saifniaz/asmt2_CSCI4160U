@@ -1,7 +1,10 @@
 ﻿<Properties StartupConfiguration="{B9AA5C63-6572-BF7D-A47B-D415998C2A3D}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/TerrainGene.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/target.cs">
     <Files>
-      <File FileName="Assets/script/TerrainGene.cs" Line="7" Column="24" />
+      <File FileName="Assets/script/TerrainGene.cs" Line="19" Column="48" />
+      <File FileName="Assets/script/cameraFollow.cs" Line="11" Column="9" />
+      <File FileName="Assets/script/playerControll.cs" Line="32" Column="41" />
+      <File FileName="Assets/target.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
